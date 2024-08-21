@@ -1,4 +1,4 @@
-# dometria Visual e Visual-Inercial
+# Odometria Visual e Visual-Inercial
 
 Este repositório está em construção e é dedicado ao estudo e desenvolvimento de algoritmos de Odometria Visual e Odometria Visual-Inercial. Nosso objetivo é fornecer um ambiente educacional que facilite a compreensão desses temas, bem como a aplicação prática das técnicas.
 
